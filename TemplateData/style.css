@@ -1,9 +1,11 @@
 body {
     padding: 0;
     margin: 0;
-    background-image: url("lol2.png");
+    /* background-image: url("lol2.png"); */
+    background:none transparent;
 }
-
+body {
+}
 #unity-container {
     position: absolute
 }
